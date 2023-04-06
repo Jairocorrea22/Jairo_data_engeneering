@@ -1,0 +1,1 @@
+- [SISTEMAS OLTP](https://www.oracle.com/br/database/what-is-oltp/#link1)
