@@ -1,12 +1,24 @@
 
 # Apache Hop
 
+# Data Engeneering Repository
 
-- Para àqueles que assim como eu, gostam de trabalhar com ETL, segue uma indicação de uma ferramenta incrível de código aberto, o Apache Hop.
-Com o Hop é possivel orquestrar dados e metadados em um ambiente super amigável, além da possibilidade de conecta-lo a varias fontes de dados. 
+</p>
 
- O Apache Hop possuie uma rápida curva de aprendizagem.
+## 🧐 About <a name = "sobre"></a>
+
+For those who, like me, like to work with ETL, here is a recommendation of an amazing open source tool, Apache Hop.
+With Hop you can orchestrate data and metadata in a very user-friendly environment, and you can connect to multiple data sources. 
+The Apache Hop has a very fast learning curve.
  
-Estarei postando alguns exemplos de Pipelines criados num fluxo de ETL.
+I will be posting some examples of Pipelines created in an ETL flow.
 
-- [about apache/documentacion](https://hop.apache.org/manual/latest/)
+- [About Apache Hop/documentacion](https://hop.apache.org/manual/latest/)
+
+
+## ✍️ Writer <a name = "autores"></a>
+
+- [@Jairocorrêa](https://www.linkedin.com/in/jairo-corr%C3%AAa-a48456120/)
+
+ - [E-mail](jairo.data@hotmail.com)
+
