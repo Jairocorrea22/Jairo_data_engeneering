@@ -47,7 +47,7 @@
 ``VIEW`` usado para criar uma visão de uma ou mais tabelas existentes, permitindo que os usuários consultem e atualizem esses dados como se fossem uma tabela real.
 
 
-## Wndown Functions
+## Windown Functions
 
 
  - Usadas para realizar cálculos em um conjunto de linhas (janela) que estão relacionadas a uma linha atual em uma tabela. 
