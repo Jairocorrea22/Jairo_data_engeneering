@@ -1,3 +1,23 @@
+# SQL
+## Structured Query Language
+
+
+</p>
+
+## 🧐 About <a name = "sobre"></a>
+
+ - Utilizamos uma base de dados do kaggle que descreve um ranking de filmes brasileiros 
+ 
+ - Utilizamos o Databricks para fazer as consultas SQL
+
+## ✍️ Writer <a name = "autores"></a>
+
+- [@Jairocorrêa](https://www.linkedin.com/in/jairo-corr%C3%AAa-a48456120/)
+
+ - [E-mail](jairo.data@hotmail.com)
+
+
+
 
 
 
@@ -6,7 +26,7 @@
 ![1](https://user-images.githubusercontent.com/111188620/234356468-17314e42-7653-4f3a-87a9-f78f0205562e.png)
 
 
-## Verificando quantas linhas tem na tabela
+## Verificando a quantidade de linhas na tabela
 
 ![2](https://user-images.githubusercontent.com/111188620/234357019-aff84e23-fd9b-44a0-8b3f-a76c24a09e10.png)
 
