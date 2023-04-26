@@ -40,7 +40,9 @@ select  max (publico_exibicao) from filmes
 
 -- COMMAND ----------
 
--- DBTITLE 1,Realizando uma subquery e verificando qual foi o filme com a maior exibição. Dessa forma, caso surja algum outro filme com um publico maior, a consulta será atualizada
+-- DBTITLE 1,Realizando uma subquery e verificando qual foi o filme com a maior exibição. Dessa forma, 
+--caso surja algum outro filme com um publico maior, a consulta será atualizada
+
 select colocacao, titulo, distribuidora, renda_exibicao, ano from filmes
 where publico_exibicao >= (select max (publico_exibicao) from filmes)
 
