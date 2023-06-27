@@ -22,7 +22,7 @@ Nesse projeto de engenharia utilizamos o AWS Glue para catalogar e o Amazon Athe
 
 ![Projeto How](https://github.com/Jairocorrea22/Jairo_data_engeneering/assets/111188620/26d09edc-a6c8-46ea-b0ca-363fa9feccde)
 
-### Passos
+## Passos
 
  -  Armazenamento de dados: Os dados iniciais são armazenados em um bucket S3 (Amazon Simple Storage Service).
    O bucket S3 é um serviço de armazenamento na nuvem altamente escalável e durável fornecido pela Amazon Web Services (AWS).
@@ -40,8 +40,25 @@ Nesse projeto de engenharia utilizamos o AWS Glue para catalogar e o Amazon Athe
    
 
 
-### Prints do projeto
+## Prints do projeto
 
+- Conexão Glue -> Athena
+  
+  ![Captura de tela 2023-06-27 133046](https://github.com/Jairocorrea22/Jairo_data_engeneering/assets/111188620/98961bd1-15aa-4eda-86d0-eb260790c4c3)
+
+- Conexão ODBC
+  
+![Captura de tela 2023-06-27 133330](https://github.com/Jairocorrea22/Jairo_data_engeneering/assets/111188620/427ad91c-2a7a-4d2f-a5f5-d94ffbdcc713)
+
+- Conexão Powerbi
+  
+  ![Captura de tela 2023-06-27 124503](https://github.com/Jairocorrea22/Jairo_data_engeneering/assets/111188620/9b2d0cd0-6409-438e-b2f5-48e2641bdbe0)
+
+ - Relatorio
+   
+![Captura de tela 2023-06-27 124146](https://github.com/Jairocorrea22/Jairo_data_engeneering/assets/111188620/a54ed12d-3033-435e-b468-0009bb568e78)
+
+   
 
 
 
