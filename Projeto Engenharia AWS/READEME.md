@@ -51,14 +51,9 @@ Nesse projeto de engenharia utilizamos o AWS Glue para catalogar e o Amazon Athe
 ![Captura de tela 2023-06-27 133330](https://github.com/Jairocorrea22/Jairo_data_engeneering/assets/111188620/427ad91c-2a7a-4d2f-a5f5-d94ffbdcc713)
 
 - Conexão Powerbi
-  
-  ![Captura de tela 2023-06-27 124503](https://github.com/Jairocorrea22/Jairo_data_engeneering/assets/111188620/9b2d0cd0-6409-438e-b2f5-48e2641bdbe0)
 
- - Relatorio
-   
-![Captura de tela 2023-06-27 124146](https://github.com/Jairocorrea22/Jairo_data_engeneering/assets/111188620/a54ed12d-3033-435e-b468-0009bb568e78)
+![Captura de tela 2023-06-29 150601](https://github.com/Jairocorrea22/Jairo_data_engeneering/assets/111188620/e3cad0f0-b782-436b-9e40-fe6daa19dac2)
 
-   
 
 
 
